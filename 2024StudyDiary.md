@@ -25,3 +25,20 @@ But still learning
 # 2024.06.11
 1. WebDev - API
 2. Leetcode - 152
+
+# 2024.06.12
+1. WebDev - API AXIOS
+2. Bilibili - MongoDB introduction
+
+# 2024.06.13
+1. WebDev - API REST APIs
+2. Public APIs
+
+# 2024.06.14
+1. WebDev - Build own API
+
+# 2024. 06.15
+1. WebDev - API http requests
+2. WebDev - Database & SQL
+3. Leetcode - 153 & 33
+4. BIlibili - Binary Tree Search
