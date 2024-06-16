@@ -42,3 +42,7 @@ But still learning
 2. WebDev - Database & SQL
 3. Leetcode - 153 & 33
 4. BIlibili - Binary Tree Search
+
+# 2024.06.16
+1. Data Structure - Recusion
+2. IEUK 2024 - Preparation
